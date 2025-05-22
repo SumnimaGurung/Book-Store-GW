@@ -120,7 +120,7 @@
         <div class="sidebar">
             <a href="Admin.jsp">User list</a>
             <a href="product.jsp">Create User</a>
-            <a href="orders.jsp">Profile</a>
+            <a href="Profile.jsp">Profile</a>
             <a href="transactions.jsp">Setting</a>
             <a href="UserManagement.jsp">Logout</a>
         </div>

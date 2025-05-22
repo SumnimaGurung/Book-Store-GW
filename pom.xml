@@ -25,7 +25,12 @@
 			<version>4.0.1</version>
 			<scope>provided</scope> <!-- Provided by Tomcat -->
 		</dependency>
-	</dependencies>
+		<dependency>
+			<groupId>com.bookstore</groupId>
+			<artifactId>BookstoreWebApp</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+  </dependencies>
 	
 	
   <build>

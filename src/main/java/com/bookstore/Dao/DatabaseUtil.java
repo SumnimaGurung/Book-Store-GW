@@ -3,7 +3,7 @@ package com.bookstore.Dao;
 import java.sql.*;
 
 public class DatabaseUtil {
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/bookstore?useSSL=false&serverTimezone=UTC";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/bookstore";
     private static final String DB_USER = "root";
     private static final String DB_PASSWORD = "";
 
